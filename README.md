@@ -3,6 +3,7 @@
 Bu repository, 2023-2024 akademik yılı kapsamında gerçekleştirilen Object-Oriented Programming dersinin ödevlerini içermektedir. Dersin amacı, nesne yönelimli programlama (OOP) kavramlarını öğrenmek ve bu kavramları gerçek dünya problemlerine uygulayabilmektir.
 
 📜 Ödev Puanları
+
 Ödev	Puan
 1. Ödev	55
 2. Ödev	100
