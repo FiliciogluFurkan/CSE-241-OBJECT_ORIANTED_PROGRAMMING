@@ -4,7 +4,7 @@ Bu repository, 2023-2024 akademik yılı kapsamında gerçekleştirilen Object-O
 
 📜 Ödev Puanları
 
- Ödev 	Puan
+   Ödev 	Puan
 1. Ödev	55
 2. Ödev	100
 3. Ödev	65
