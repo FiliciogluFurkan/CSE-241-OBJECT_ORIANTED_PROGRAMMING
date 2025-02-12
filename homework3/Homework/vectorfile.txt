@@ -1,0 +1,9 @@
+The elements of the Vector are: Ahmet, mehmet, Selin, zafer, mahmut, Selin, mahmut
+The elements of the Vector are: Ahmet, mehmet, Selin, zafer, mahmut, Selin, mahmut
+The elements of the Vector are: Ahmet, mehmet, Selin, zafer, Selin, mahmut
+The elements of the Vector are: Ahmet, mehmet, Selin, zafer, mahmut, Selin, mahmut
+The elements of the Vector are: Ahmet, mehmet, Selin, zafer, mahmut, Selin, mahmut
+The elements of the Vector are: Ahmet, mehmet, Selin, zafer, Selin, mahmut
+The elements of the Vector are: Ahmet, mehmet, Selin, zafer, mahmut, Selin, mahmut
+The elements of the Vector are: Ahmet, mehmet, Selin, zafer, mahmut, Selin, mahmut
+The elements of the Vector are: Ahmet, mehmet, Selin, zafer, Selin, mahmut

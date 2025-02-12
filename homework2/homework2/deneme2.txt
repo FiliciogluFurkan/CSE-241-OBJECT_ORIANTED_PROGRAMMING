@@ -1,0 +1,6 @@
+D. 
+F cpp.txt
+F important.txt
+D file1
+D.. file1
+F createnew.txt

@@ -1,0 +1,8 @@
+> touch cpp.txt
+> touch important.txt
+> mkdir file1
+> ls
+> cd file1
+> ls
+> touch createnew.txt
+> ls
